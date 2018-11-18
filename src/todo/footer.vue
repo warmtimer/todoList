@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      author: 'Job'
+      author: 'warmtimer'
     }
   }
 }
